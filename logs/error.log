@@ -1,1 +1,2 @@
 2018/01/30 06:55:11 [emerg] 5556#0: unexpected "}" in /home/alex_babuk/nginx/conf/nginx.conf:86
+2018/01/30 07:50:58 [error] 5702#0: *2 access forbidden by rule, client: 127.0.0.1, server: 192.168.122.14, request: "GET /status HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
